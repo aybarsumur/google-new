@@ -12,5 +12,5 @@ Projemde linkler ve hooverlar ( navigation butonları, search butonları, profil
 ## Installation
 Projeyi klonlayarak kullanabilirsiniz. 
 ```
-https://github.com/aybarsumur/kodluyoruzilkrepo.git
+https://github.com/aybarsumur/google-new.git
 ```
